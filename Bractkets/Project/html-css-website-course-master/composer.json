@@ -10,6 +10,7 @@
     "spryker/propel-orm": "^1.0.0",
     "spryker/store": "^1.0.0",
     "spryker/symfony": "^3.0.0",
+    "spryker/touch": "3.0.x-dev",
     "spryker/util-data-reader": "^1.0.0"
   },
   "require-dev": {
